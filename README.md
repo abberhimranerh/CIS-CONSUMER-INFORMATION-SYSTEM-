@@ -19,3 +19,9 @@ This tool empowers consumers to:
 Compare prices across local governments.
 Make better financial decisions.
 Promote transparency and awareness in local markets.
+
+AUTHOR'S
+NAME: Abubakar Imrana mukhtar 
+I'D NUMBER: FE/24/4834991261
+TRACK: Software development 
+STATE: Zamfara State 
